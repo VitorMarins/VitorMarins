@@ -1,4 +1,4 @@
-## Oi tudo bom? Sou Vitor Barbosa Marins 👋
+## Oi Sou Vitor Barbosa Marins 👋
 Sou Universitario de Analise e Desenvolvimento de Sistemas na [Faculdade Senac](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas).
 
 # Linguagens e Ferramentas
