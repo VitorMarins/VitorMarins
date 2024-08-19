@@ -2,7 +2,7 @@
 Sou Universitario de Analise e Desenvolvimento de Sistemas na [Faculdade Senac](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas).
 
 # Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,py,git,github,figma,lua,robloxstudio,cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,py,git,github,figma,lua,cs)](https://skillicons.dev)
 <!--
 **VitorMarins/VitorMarins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
