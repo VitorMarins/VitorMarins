@@ -3,10 +3,11 @@
 
 <br>
 
-<p align="center">
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorMarins&show_icons=true&theme=white" alt="Status do Perfil:"/>
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarins&layout=compact&theme=white" alt="Linguagens mais usadas:"/>
-</p>
+<div align="center">
+  <a href="https://github.com/VitorMarins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMarins&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarins&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
 
 <br>
 
