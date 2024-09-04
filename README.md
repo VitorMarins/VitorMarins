@@ -14,7 +14,7 @@
 <hr>
 
 ### 💻 Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,py,git,github,figma,lua,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,mongodb,py,git,github,figma,lua,cs)](https://skillicons.dev)
 
 <hr>
 
