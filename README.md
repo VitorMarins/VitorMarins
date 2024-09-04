@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9EBFF7&repeat=false&width=435&lines=Oi+sou+Vitor+Barbosa+Marins+%F0%9F%91%8B" alt="Typing SVG" /></a>
+# <a href="https://github.com/VitorMarins"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9EBFF7&repeat=false&width=435&lines=Oi+sou+Vitor+Barbosa+Marins+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ### Sou Universitario de Analise e Desenvolvimento de Sistemas na [Faculdade Senac](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas).
 
 <br>
@@ -14,7 +14,7 @@
 <hr>
 
 ### 💻 Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,mongodb,py,git,github,figma,lua,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,mongodb,py,git,github,figma,lua,cs)](https://github.com/VitorMarins)
 
 <hr>
 
