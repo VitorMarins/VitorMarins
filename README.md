@@ -13,8 +13,11 @@
 
 <hr>
 
-### 💻 Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,java,ts,express,mysql,mongodb,py,git,github,figma,lua,cs)](https://github.com/VitorMarins)
+### 💻 Linguagens 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,git,lua,cs)](https://github.com/VitorMarins)
+
+### 💻 Ferramentas e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,express,mysql,mongodb,github,figma)](https://github.com/VitorMarins)
 
 <hr>
 
