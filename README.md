@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,git,lua,java)](https://github.com/VitorMarins)
 
 ### 💻 Ferramentas e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,express,mysql,mongodb,github,figma)](https://github.com/VitorMarins)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,mysql,mongodb,github,figma)](https://github.com/VitorMarins)
 
 <hr>
 
