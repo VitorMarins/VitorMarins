@@ -1,5 +1,5 @@
 <a href="https://github.com/VitorMarins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9EBFF7&repeat=false&width=435&lines=Oi+sou+Vitor+Barbosa+Marins+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9EBFF7&repeat=true&width=435&lines=Oi+sou+Vitor+Barbosa+Marins+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 ---
