@@ -5,9 +5,11 @@
 ---
 
 ### 🎓 Sobre mim
-Sou **formado em Análise e Desenvolvimento de Sistemas** pela [Faculdade Senac PE](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas).
+🎓 Cursando **Ciência da Computação** na [Uninassau](https://vest.uninassau.edu.br/cursos/recife/uninassau-recife/bacharelado-em-ciencia-da-computacao/1.1_1.79.1?modality=Presencial)  
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela [Faculdade Senac PE](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas) e Técnico em TI
 
-Tenho interesse em **desenvolvimento web**, **backend**, **APIs** e **boas práticas de software**, sempre buscando evoluir como desenvolvedor e profissional de tecnologia.
+💻 Desenvolvedor **Full Stack** com experiência em desenvolvimento web, APIs, automações com IA e construção de chatbots.  
+🚀 Em busca de **oportunidades de estágio** para aplicar boas práticas de software e contribuir em projetos de alto impacto.
 
 ---
 
@@ -19,15 +21,14 @@ Tenho interesse em **desenvolvimento web**, **backend**, **APIs** e **boas prát
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/VitorMarins">
-      <img alt="VitorMarins's Github Stats" height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VitorMarins&show_icons=true&count_private=true&theme=react" />
-    </a>
+<p align="left"> 
+  <a href="https://github.com/VitorMarins">
+    <img alt="VitorMarins's Github Stats" height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VitorMarins&show_icons=true&count_private=true&theme=react" />
+  </a>
   <a href="https://github.com/VitorMarins">
     <img alt="VitorMarins's Top Languages" height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VitorMarins&layout=compact&langs_count=8&theme=react" />
   </a>
-  <br/>
-</a>
+</p>
 
 ---
 
@@ -36,8 +37,8 @@ Tenho interesse em **desenvolvimento web**, **backend**, **APIs** e **boas prát
 
 ---
 
-## 🧰 Frameworks & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,express,nestjs,bootstrap,mysql,mongodb,github,figma,aws)](https://github.com/VitorMarins)
+## 🧰 Frameworks, Banco de Dados & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nestjs,spring,bootstrap,tailwind,mysql,postgres,mongodb,docker,aws,figma,github)](https://github.com/VitorMarins)
 
 ---
 
