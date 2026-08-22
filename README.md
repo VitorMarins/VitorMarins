@@ -6,7 +6,7 @@
 
 ### 🎓 Sobre mim
 🎓 Cursando **Ciência da Computação** na [Uninassau](https://vest.uninassau.edu.br/cursos/recife/uninassau-recife/bacharelado-em-ciencia-da-computacao/1.1_1.79.1?modality=Presencial)  
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela [Faculdade Senac PE](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas) e Técnico em TI
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela [Faculdade Senac PE](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas) e Técnico em TI pelo [SENAC Mediotec PE](https://www.pe.senac.br/mediotec/)
 
 💻 Desenvolvedor **Full Stack** com experiência em desenvolvimento web, APIs, automações com IA e construção de chatbots.  
 🚀 Em busca de **oportunidades de estágio** para aplicar boas práticas de software e contribuir em projetos de alto impacto.
